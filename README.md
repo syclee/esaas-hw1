@@ -44,7 +44,6 @@ tests for all parts to pass green.
 test cases beyond the ones given here.)
 
 # Fun With Words and Strings
---- fun_with_strings
 
 Specs: `spec/fun_with_strings_spec.rb`
 
@@ -105,10 +104,6 @@ groups and returns the array of groups. Case doesn't matter in
 classifying string as anagrams (but case should be preserved in the
 output), and the order of the anagrams in the groups doesn't matter. 
 
-</div>
-
-<div class="problem" name="basic_oop_for_dessert">
-
 # Part 2: Basic Object-Oriented Programming for Dessert
 
 Specs: `spec/dessert_spec.rb`
@@ -134,9 +129,6 @@ the flavor plus "jelly bean", for example, "strawberry jelly bean".
 `licorice`, but true for all other flavors.  The behavior of
 `delicious?` for non-jelly-bean desserts should be unchanged.
 
-</div>
-
-<div class="problem" name="rock_paper_scissors">
 # Part 3: Rock-Paper-Scissors
 
 Specs: `spec/rock_paper_scissors_spec.rb`
@@ -204,9 +196,6 @@ match per round).
 HINT: Formulate the problem as a recursive one whose base case you
 solved in part 1.
 
-</div>
-
-<div class="problem" name="attr_accessor_with_history">
 ## 4. Ruby metaprogramming
 
 Specs:  `spec/attr_accessor_with_history_spec.rb`
