@@ -43,7 +43,7 @@ tests for all parts to pass green.
 (Note: when you submit your assignment, we may also run additional
 test cases beyond the ones given here.)
 
-# Fun With Words and Strings
+# Part 1: Fun With Words and Strings
 
 Specs: `spec/fun_with_strings_spec.rb`
 
