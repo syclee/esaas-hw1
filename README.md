@@ -1,4 +1,3 @@
-<div class="problem" name="fun_with_strings">
 Ruby Calisthenics
 =================
 
@@ -272,5 +271,3 @@ correct value for `foo_history` would be `[nil]`.
 * Don't forget that instance variables are referred to as `@bar` within getters and setters, as Section 3.4 of ELLS explains.
 * Although the existing `attr_accessor` can handle multiple arguments (e.g. `attr_accessor :foo, :bar`), your version just needs to handle a single argument.
 * Your implementation should be genreal enough to work in the context of any class and for attributes of any (legal) variable name
-
-</div>
