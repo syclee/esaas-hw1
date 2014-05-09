@@ -147,7 +147,7 @@ encoded as an array of two elements
 
 (In this example, Dave would win because Scissors cuts Paper.)
 
-## 1. Game Winner
+## A. Game Winner
 
 Create a `RockPaperScissors` class with a *class* method `winner` that
 takes two 2-element arrays like those above, and returns the one
@@ -163,7 +163,7 @@ If either player's strategy is something other than "R", "P" or "S"
 
 If both players use the same strategy, the first player is the winner.
 
-## 2. Tournament
+## B. Tournament
 
 A rock-paper-scissors tournament is encoded as an array of games -
 that is, each element can be considered its own tournament.
@@ -196,7 +196,7 @@ match per round).
 HINT: Formulate the problem as a recursive one whose base case you
 solved in part 1.
 
-## 4. Ruby metaprogramming
+## Part 4. Ruby metaprogramming
 
 Specs:  `spec/attr_accessor_with_history_spec.rb`
 
