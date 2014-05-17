@@ -101,7 +101,7 @@ into any other just by rearranging the letters.  For example, "rats",
 
 Given a space separated list of words in a single string,
 write a method that groups them into anagram groups 
-and returns a nested array of groups (an array of arrays).
+and returns a nested array of those groups (an array of arrays).
 Case doesn't matter in classifying string as anagrams
 (but case should be preserved in the output),
 and the order of the anagrams in the groups doesn't matter. 
