@@ -99,10 +99,12 @@ An anagram group is a group of words such that any one can be converted
 into any other just by rearranging the letters.  For example, "rats",
 "tars" and "star" are an anagram group.
 
-Given an array of strings, write a method that groups them into anagram
-groups and returns the array of groups. Case doesn't matter in
-classifying string as anagrams (but case should be preserved in the
-output), and the order of the anagrams in the groups doesn't matter. 
+Given a space separated list of words in a single string,
+write a method that groups them into anagram groups 
+and returns a nested array of those groups (an array of arrays).
+Case doesn't matter in classifying string as anagrams
+(but case should be preserved in the output),
+and the order of the anagrams in the groups doesn't matter. 
 
 # Part 2: Basic Object-Oriented Programming for Dessert
 
